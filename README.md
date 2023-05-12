@@ -10,7 +10,8 @@ This framework is used to exeute API test cases written in POSTMAN
  **const collection_Path = 'src/data/collections/---.json';**
  
  **environment_Path = 'src/data/environments/---.json';**
-- Run command: npm run test
+- install node_modules by running command: **npm install**
+- Run command: **npm run test**
 <img width="797" alt="image" src="https://github.com/Sunny-sp/newman-framework/assets/105594569/1cc35eb6-7b6f-492b-af15-8162168e73b4">
 
 # Run test cases with specific environment **(qa/dev/local/prod)**
