@@ -1,0 +1,17 @@
+{
+  "name": "api-test-framework",
+  "version": "1.0.0",
+  "description": "API testing framework Newman",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node src/config/testConfig.ts"
+  },
+  "author": "Infosys",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/newman": "^5.3.3",
+    "newman": "^5.3.2",
+    "typescript": "^5.0.4",
+    "winston": "^3.8.2"
+  }
+}
