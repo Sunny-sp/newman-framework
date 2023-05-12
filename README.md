@@ -1,5 +1,5 @@
 # newman-framework
-This framework is used to exeute API test cases writtem in POSTMAN
+This framework is used to exeute API test cases written in POSTMAN
 
 # Steps to run API test cases using Newman
 - **Create** a new branch using: checkout branch -b "branch_name"
